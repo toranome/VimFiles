@@ -1,0 +1,10 @@
+set enc=utf-8
+set fileencoding=utf-8
+
+set nobackup nowritebackup
+set visualbell t_vb=
+set guifont=Courier\ New:h11
+set guifontwide=NSimsun:h12
+colorscheme darcula
+
+source $VIMRUNTIME/macros/matchit.vim
