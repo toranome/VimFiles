@@ -2,7 +2,6 @@ set nobackup nowritebackup
 set tabstop=4 shiftwidth=4 expandtab
 
 set nocompatible
-source $VIMRUNTIME/vimrc_example.vim
 source $VIMRUNTIME/mswin.vim
 behave mswin
 
