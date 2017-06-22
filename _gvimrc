@@ -3,6 +3,7 @@ set fileencoding=utf-8
 
 " Turn off newline insertion
 set textwidth=0 wrapmargin=0
+syntax on
 
 set nobackup nowritebackup noundofile
 set visualbell t_vb=
